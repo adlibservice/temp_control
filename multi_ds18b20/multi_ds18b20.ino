@@ -1,4 +1,6 @@
 //https://naylampmechatronics.com/blog/46_Tutorial-sensor-de-temperatura-DS18B20.html
+//깃허브에서 브렌치 만들기 : https://backlog.com/git-tutorial/kr/
+
 #include <OneWire.h>                
 #include <DallasTemperature.h>
  
